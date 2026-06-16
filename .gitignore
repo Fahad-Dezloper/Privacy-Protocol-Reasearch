@@ -1,0 +1,57 @@
+# Local directories
+.next/
+node_modules/
+coverage/
+dist/
+build/
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing coverage
+coverage/
+
+# Dependency caches
+.npm/
+.yarn/
+.pnpm/
+.cache/
+
+# Large files (if any)
+*.log
+*.lock
+
+# Misc
+.turbo/
+try.txt
+ARCHITECTURE.md
+FAQ.md
+FEATURES.md
+FEES.md
+OVERVIEW.md
+PROTOCOLS.md
+README.md
+SOLANA_PRIVACY_PROTOCOLS.md
+VERIFICATION_LAYER.md
