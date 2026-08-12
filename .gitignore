@@ -42,16 +42,3 @@ coverage/
 # Large files (if any)
 *.log
 *.lock
-
-# Misc
-.turbo/
-try.txt
-ARCHITECTURE.md
-FAQ.md
-FEATURES.md
-FEES.md
-OVERVIEW.md
-PROTOCOLS.md
-README.md
-SOLANA_PRIVACY_PROTOCOLS.md
-VERIFICATION_LAYER.md

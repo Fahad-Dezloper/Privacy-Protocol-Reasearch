@@ -1,0 +1,37 @@
+loyal
+cloak
+magicblock
+umbra
+privacy cash -- DONE
+
+
+
+directions in which we can build swish
+solvers in etherium for privacy
+hwo multiple protocol works under the hood.
+utxos and everything all understand
+should be global or internally can be changed based on the protocol txns
+
+
+how umbra is doing with mpc because of compliance regulations not totally private but can be decrypted with legal authorizations all nodes need to cooperate for that
+
+
+
+Direction of SWISH
+- Global Privacy SDK and platform aggregator
+-
+
+# Solana RPC
+NEXT_PUBLIC_RPC_URL=https://api.mainnet-beta.solana.com
+
+# Privy (from swish-web)
+NEXT_PUBLIC_PRIVY_APP_ID=cmpwc8wji00370cjpjib4wve4
+PRIVY_APP_SECRET=privy_app_secret_54W1u5DaAW5Fdx9wKTR4SAN3NMR4iyxaUGX75YU8QcqmqG9qNBsRExcoFLp5eiMGnEr5L76Yrx93DSnWjeLvqRjX
+
+# App
+NEXT_PUBLIC_APP_URL=http://localhost:3001
+
+# Paybis onramp — get these from https://partners.paybis.com
+# Leave blank to show the deposit-address fallback in the onramp modal
+PAYBIS_API_KEY=
+NEXT_PUBLIC_PAYBIS_PARTNER_ID=
